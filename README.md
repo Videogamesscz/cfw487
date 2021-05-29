@@ -22,4 +22,5 @@
 - Desactivado mensaje de epilepsia
 - Desactivado CINAVIA Protection 
 
-https://user-images.githubusercontent.com/67963566/120084611-ee154000-c0d1-11eb-98b9-a7c81c07bb7f.png
+![1](https://user-images.githubusercontent.com/67963566/120084611-ee154000-c0d1-11eb-98b9-a7c81c07bb7f.png)
+
