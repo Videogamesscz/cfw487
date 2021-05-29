@@ -1,5 +1,6 @@
 # CUSTOM FIRMWARE 4.87 VIDEOGAMES SCZ EDITION CFW
 - Incluye modificación del category_game.xml con las principales stores en CFW
+- Incluye modificación download plugin para poder seleccionar la ruta de destino en CFW 
 - Coldboot y Wave personalizadas
 - PSN / SEN Enabled
 - Posibilidad de actualizar desde cualquier CFW (CEX)
