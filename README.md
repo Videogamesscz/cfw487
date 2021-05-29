@@ -1,4 +1,6 @@
 # CUSTOM FIRMWARE 4.87 VIDEOGAMES SCZ EDITION CFW
+- Incluye modificación del category_game.xml con las principales stores en CFW
+- Coldboot y Wave personalizadas
 - PSN / SEN Enabled
 - Posibilidad de actualizar desde cualquier CFW (CEX)
 - Posibilidad de actualizar desde OFW 3.55 y firmware original 4.87 (ps3xploit.com a través de BG Toolset)
